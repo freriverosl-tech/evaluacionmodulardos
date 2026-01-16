@@ -22,6 +22,11 @@ Incluye secciones de experiencia, formación, habilidades y un formulario de con
 
 ## Estructura del proyecto
 
-```assets
-
+``` /assets
+/css
+/img
+/js
+.gitignore
+index.HTML
+README.md
 
