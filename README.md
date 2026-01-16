@@ -20,15 +20,14 @@ Proyecto de desarrollo Front-End que consiste en la creación de un currículum 
 - Estética minimalista 
 
 ## Estructura del proyecto
-
-``` 
-/assets
-/css
-/img
-/js
-.gitignore
-index.HTML
-README.md
+ 
+- /assets
+- /css
+- /img
+- /js
+- .gitignore
+- index.HTML
+- README.md
 
 
 ## Objetivos de aprendizaje
@@ -47,5 +46,4 @@ https://github.com/freriverosl-tech/evaluacionmodulardos.git
 
 **Frederick Riveros**  
 Proyecto académico / portafolio personal
-
 
