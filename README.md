@@ -23,13 +23,13 @@ Proyecto de desarrollo Front-End que consiste en la creación de un currículum 
 
 ## Estructura del proyecto
 
-/assets
-/css
-/img
-/js
-.gitignore
-index.html
-README.md
+`assets`
+`/css`
+`/img`
+`/js`
+`.gitignore`
+`index.html`
+`README.md`
 
 ## Objetivos de aprendizaje
 
